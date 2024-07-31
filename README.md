@@ -2,6 +2,9 @@
 
 Beat Box generates personalized song recommendations based upon users' playlist. The dataset used in this project comes from a [playlist]( https://open.spotify.com/playlist/1G8IpkZKobrIlXcVPoSIuf?si=f11fb54e99334cd9 ) on Spotify.
 
+## Key analysis
+
+Please navigate to notebooks/Key_analysis.ipynb
 ### Demo 
 
 ![Demo](demo.gif)
