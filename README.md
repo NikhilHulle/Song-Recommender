@@ -13,7 +13,7 @@ Please navigate to notebooks/Key_analysis.ipynb
 
 Clone the repository using this command:
 ```sh
-git clone https://github.com/shivam360d/Novel_Song_Recommender.git
+git clone https://github.com/NikhilHulle/Song-Recommender.git
 ```
 
 ### Data Collection
